@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "out-look-email-finder",
+    "libraryId": "f8ff3890-9110-4130-92f3-1651984373b2",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "out-look-email-finder",
+    "solutionShortDescription": "out-look-email-finder description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

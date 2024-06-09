@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "out-look-email-finder-client-side-solution",
+    "id": "f8ff3890-9110-4130-92f3-1651984373b2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "out-look-email-finder description"
+      },
+      "longDescription": {
+        "default": "out-look-email-finder description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "out-look-email-finder Feature",
+        "description": "The feature that activates elements of the out-look-email-finder solution.",
+        "id": "b58e0d34-e63b-45a0-8756-ab8fa77bede8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/out-look-email-finder.sppkg"
+  }
+}
